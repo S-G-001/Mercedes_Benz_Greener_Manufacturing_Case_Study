@@ -24,3 +24,4 @@ Get a high level statistical overview.
 Get a detailed initial analysis of the data. Discover trends and patterns.  
 Understand different types of features in the training data. Discover the most useful features.  
 Check for Outliers, Null Values and other irregularities.  
+Find out which features can be removed to deal with curse of dimensionaltiy.  
