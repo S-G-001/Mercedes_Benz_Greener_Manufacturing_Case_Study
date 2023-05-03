@@ -25,3 +25,9 @@ Get a detailed initial analysis of the data. Discover trends and patterns.
 Understand different types of features in the training data. Discover the most useful features.  
 Check for Outliers, Null Values and other irregularities.  
 Find out which features can be removed to deal with curse of dimensionaltiy.  
+
+### 2.2) Feature_Engineering.ipynb
+Perform Extensive feature engineering to get the best set of features.  
+Trying to reduce the dimensionality as much as possible without affecting the results to tackle curse of dimensionality.  
+Build RF Regressor to test various sets  of features.  
+Use Correlation matrix, outliers, interaction features, Principal component analysis and other techniques to get the create new features, delete bad features, and modify others.
