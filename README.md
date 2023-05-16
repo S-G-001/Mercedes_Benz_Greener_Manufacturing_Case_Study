@@ -31,3 +31,10 @@ Perform Extensive feature engineering to get the best set of features.
 Trying to reduce the dimensionality as much as possible without affecting the results to tackle curse of dimensionality.  
 Build RF Regressor to test various sets  of features.  
 Use Correlation matrix, outliers, interaction features, Principal component analysis and other techniques to get the create new features, delete bad features, and modify others.
+
+### 2.3) Modeling.ipynb
+Create multiple models and find out which one is making the best predictions.  
+Perform grid search to fine tune the hyperparameters.  
+Find the predicted target values for test data to be uploaded to kaggle.
+
+
